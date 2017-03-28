@@ -1,0 +1,22 @@
+.jumbotron, .card {
+  margin: 10px;
+}
+
+* {
+  font-family: Droid Serif;
+}
+.jumbotron {
+  color: white;
+  background-color: #424244;
+}
+
+body {
+  background-color: #ECEEEF
+}
+
+.card-header {
+  font-family: Raleway;
+  background-color: grey;
+  color: white;
+  font-size: 1.5em;
+}
